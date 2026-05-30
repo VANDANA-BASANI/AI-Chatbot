@@ -85,6 +85,9 @@ This project is open-source and intended for educational and experimental use.
 ## 👤 Author
 
 **VANDANA BASANI** 
+
 -BTech (CSE) 
--Backend & AI Systems Enthusiast  
+
+-Backend & AI Systems Enthusiast
+
 -Open-source learner 🚀
